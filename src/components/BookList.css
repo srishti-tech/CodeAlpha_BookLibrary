@@ -1,0 +1,46 @@
+.book-list-container {
+    margin-top: 20px;
+  }
+  
+  .book-list {
+    padding: 10px;
+    border: 1px solid #0a0909;
+    border-radius: 4px;
+  }
+
+  .ss{ margin: 20px;
+  box-sizing: border-box;box-shadow: 5px 3px 3px 5px rgb(231, 230, 230);
+  }
+  .img{box-shadow: 5px 3px 3px  rgb(231, 230, 230);
+    width:inherit;
+    height: inherit;
+
+  }
+  .cardbox{
+    
+  display: flex;  
+  flex-wrap:wrap;
+    margin: 10px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .span1{bottom:-20px;
+  }
+
+  li{
+    padding: 20px;
+  }
+  .book-item {
+    margin-bottom: 10px;
+  }
+  
+  .borrowed-status {
+    color: #e74c3c; /* Red color for borrowed status */
+  }
+  
+  .available-status {
+    color: #2ecc71; /* Green color for available status */
+  }
+  

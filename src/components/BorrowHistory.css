@@ -1,0 +1,14 @@
+.borrow-history-container {
+    margin-top: 20px;
+  }
+  
+  .borrow-history-list {
+    padding: 10px;
+    border: 1px solid #0e0e0e;
+    border-radius: 4px;
+  }
+  
+  .borrow-history-item {
+    margin-bottom: 10px;
+  }
+  

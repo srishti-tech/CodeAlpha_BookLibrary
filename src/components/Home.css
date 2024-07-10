@@ -1,0 +1,166 @@
+.App-header {
+  color: rgb(0, 0, 0);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.main{
+  background-image:url('bg.jpg');
+  background-repeat:unset;
+  padding: 10px;
+}
+
+.dis {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 150px 50px 100px ;
+}
+
+.icon{
+  width: auto;
+  height: 80px;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-content h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: rgb(247, 245, 245);
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+}
+
+nav ul li a:hover {
+  background-color: #555;
+}
+.b{
+  width: auto;
+  height: 600px;
+}
+
+.dis h2{
+  font-size: 45px;
+  color: white;
+}
+
+.dis p{
+  color: rgb(229, 229, 232);
+}
+
+.dis .p3{
+  color: white;
+}
+
+
+.sec2{
+  margin: 40px 200px 40px 200px;
+  color: black;
+}
+.sec{
+  margin: 40px 0 40px 0;
+  color: black;
+}
+
+.Bcard{
+  box-sizing: border-box;box-shadow: 5px 3px 3px rgb(231, 230, 230);
+ margin: 20px;
+ padding: 0.5px;
+  align-items: center;
+  display: inline-block;
+}
+
+
+img{
+  width: 150px;
+  height: 180px;
+  margin: 0;
+  padding: 0;
+}
+
+.card-body{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.ht{
+  font-size: 20px;
+}
+.pt{
+  font-size: 15px;
+}
+
+
+.Bcard2{
+  width: 550px;
+  height: 200px;
+  margin: 20px;
+   padding: 20px;
+   align-items: center;
+   display: inline-flex;
+   border: #f3f0f0 2px solid;
+   border-radius: 2px;box-shadow: 8px 5px 5px rgb(237, 235, 235);
+ }
+.t1{
+  background-color: rgb(188, 197, 240);
+}
+.t2{
+  background-color: rgb(221, 235, 166);
+}
+ .card-body{
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+  display: block;
+}
+
+.Bcard2 .pt:nth-child(2){
+  font-size: 14px;
+}
+
+.Bcard3{ width: 5000px;
+  height: 400px;
+  background-image: url(bg.jpg);
+   align-items: center;
+   display: inline-flex;
+   color: white;
+   padding-left: 150px;
+   border: #f3f0f0 2px solid;
+   border-radius: 2px;box-shadow: 8px 5px 5px rgb(210, 209, 209);
+ }
+
+ .Bcard3 img{
+  width: 400px;
+  height: 400px;
+  margin: 0;
+  padding: 0;
+}
+
+.Bcard3 .pt:nth-child(1){
+  font-size:45px;
+}
+
+.Bcard3 .pt:nth-child(2){
+  font-size:25px;
+}

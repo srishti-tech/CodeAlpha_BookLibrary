@@ -1,0 +1,244 @@
+[
+    {
+      "id": 1,
+      "title": "Educated",
+      "author": "Tara Westover",
+      "category": "Non-fiction",
+      "borrowed": false,
+      "borrowHistory": [],
+      "image": "./image/educated.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "category": "Non-fiction",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "John Doe", "dateBorrowed": "2024-07-04", "dateReturned": "2024-07-20" }
+      ],
+       "image": "../image/becoming.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Quiet",
+      "author": "Susan Cain",
+      "category": "Non-fiction",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "Raj", "dateBorrowed": "2024-07-01", "dateReturned": "2024-08-18" }
+      ],
+        "image": "../image/quiet.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Blink",
+      "author": "Malcolm Gladwell",
+      "category": "Non-fiction",
+      "borrowed": false,
+      "borrowHistory": [],
+        "image": "../image/blink.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "category": "Non-fiction",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "Priya", "dateBorrowed": "2024-02-7", "dateReturned": "2025-07-05" }
+      ],
+  "image": "../image/steve.jpg"
+    },
+
+    {
+      "id": 6,
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Fiction",
+      "borrowed": false,
+      "borrowHistory": [
+      ],
+  "image": "./image/1984.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Beloved ",
+      "author": "Toni Morrison",
+      "category": "Fiction",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "John Doe", "dateBorrowed": "2024-07-01", "dateReturned": "2024-07-05" }
+      ],
+  "image": "../image/beloved.jpg"
+    },
+
+    {
+      "id": 8,
+      "title": "Emma",
+      "author": "Jane Austen",
+      "category": "Fiction",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "John Doe", "dateBorrowed": "2024-07-01", "dateReturned": "2024-07-05" }
+      ],
+  "image": "../image/emma.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Sula",
+      "author": "Toni Morrison",
+      "category": "Fiction",
+      "borrowed": false,
+      "borrowHistory": [],
+ "image": "../image/sula.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Lila",
+      "author": "Marilynne Robinson",
+      "category": "Fiction",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "Mary Dickens", "dateBorrowed": "2022-07-05", "dateReturned": "2024-07-22" }
+      ],
+  "image": "../image/lila.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Bleak House",
+      "author": "Charles Dickens",
+      "category": "Fiction",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "Mary Dickens", "dateBorrowed": "2022-07-05", "dateReturned": "2024-07-22" }
+      ],
+  "image": "./image/bleak.jpg"
+    },
+    {
+      "id": 12,
+      "title": "It",
+      "author": "Stephen King",
+      "category": "Horror",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "charles", "dateBorrowed": "2024-07-05", "dateReturned": "2024-07-22" }
+      ],
+  "image": "./image/it.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Carrie",
+      "author": "Stephen King",
+      "category": "Horror",
+      "borrowed": false,
+      "borrowHistory": [],
+  "image": "./image/carrie.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Cujo",
+      "author": "Stephen King",
+      "category": "Horror",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "Gary Westwall", "dateBorrowed": "2024-04-07", "dateReturned": "2024-07-22" }
+      ],
+  "image": "https://example.com/book1.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Jaws",
+      "author": "Peter Benchley",
+      "category": "Horror",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "Peter Pan", "dateBorrowed": "2024-02-22", "dateReturned": "2024-07-22" }
+      ],
+  "image": "https://example.com/book1.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "category": "Romantic",
+      "borrowed": false,
+      "borrowHistory": [],
+  "image": "https://example.com/book1.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Twilight",
+      "author": "Stephenie Meyer",
+      "category": "Romantic",
+      "borrowed": false,
+      "borrowHistory": [],
+  "image": "https://example.com/book1.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Outlander",
+      "author": "Diana Gabaldon",
+      "category": "Romantic",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "Paul", "dateBorrowed": "2024-02-04", "dateReturned": "2024-07-10" }
+      ],
+  "image": "https://example.com/book1.jpg"
+    },
+
+    {
+      "id": 19,
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "category": "Romantic",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "King Steve", "dateBorrowed": "2024-02-04", "dateReturned": "2024-07-10" }
+      ],
+  "image": "https://example.com/book1.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "category": "Sci-Fi",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "Lila", "dateBorrowed": "2024-06-09", "dateReturned": "2024-07-10" }
+      ],
+        "image": "https://example.com/book1.jpg"
+    },
+    {
+      "id": 21,
+      "title": "I,Robot",
+      "author": "Isaac Asimov",
+      "category": "Sci-Fi",
+      "borrowed": false,
+      "borrowHistory": [],
+        "image": "https://example.com/book1.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Rama",
+      "author": "Arthur C. Clarke",
+      "category": "Sci-Fi",
+      "borrowed": true,
+      "borrowHistory": [
+        { "borrower": "Sriya", "dateBorrowed": "2024-06-01", "dateReturned": "2024-07-10" }
+      ],
+        "image": "https://example.com/book1.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Anthem",
+      "author": "Ayn Rand",
+      "category": "Sci-Fi",
+      "borrowed": false,
+      "borrowHistory": [],
+        "image": "https://example.com/book1.jpg"
+    }
+
+
+  ]
+  

@@ -1,0 +1,10 @@
+.search{
+    margin:20px;
+    padding: 10px;
+    display: inline-block;
+}
+
+
+input{
+    width: 50px;
+}

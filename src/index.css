@@ -1,0 +1,49 @@
+/* Reset default margin and padding */
+body, h1, ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Basic styles for the app */
+  .App {
+    font-family:cursive, Arial, sans-serif;
+  }
+  
+  .App-header {
+    color: rgb(1, 1, 1);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"], select {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
